@@ -1,0 +1,6 @@
+This      1
+is      2
+input     3
+line      4
+     5
+\n     6

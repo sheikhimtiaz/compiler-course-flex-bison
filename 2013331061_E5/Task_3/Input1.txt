@@ -1,0 +1,6 @@
+printf();
+//code
+/* multi-line
+comment here
+*/
+//another comment 

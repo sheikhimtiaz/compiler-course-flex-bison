@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<string.h>
+
+int main(void)
+{
+[Syntex Error in this line] -> /# this will print error
+
+int i=10;
+
+
+return 0;
+
+}

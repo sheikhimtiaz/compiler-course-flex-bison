@@ -1,0 +1,20 @@
+First
+ => Valid
+
+123abc
+ =>Not Valid.
+
+CSE_440
+ => Valid
+
+_123
+ => Valid
+
+for
+ => Not Valid
+
+A&bc
+ => Valid
+
+life => Not Valid
+

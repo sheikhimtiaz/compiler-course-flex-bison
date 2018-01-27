@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<string.h>
+
+int main(void)
+{
+//this comment should go awayu
+/# this will print error
+
+int i=10;
+
+/* this line will  be cleared
+comment 
+in multi 
+line
+*/
+
+return 0;
+
+}

@@ -1,0 +1,3 @@
+ID:life[4]
+ID:is[2] 
+ID:beautiful[9]

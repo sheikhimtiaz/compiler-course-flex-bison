@@ -1,0 +1,20 @@
+
+gcc HelloWorld.c -o HelloWorld.exe
+												->gives direct exe file
+gcc -E HelloWorld.c -o HelloWorld.i
+												->(preprocessed file in c, has the i extension)
+
+gcc -c m.c 							-> creates a object file
+gcc H.c M.c -o M.exe 		->works with dependency
+gcc -c M.s							->gave en error, not sure what sir said, gotta google
+
+
+>>flex -oLex1.c Lex1.l
+>>gcc Lex1.c -o Scanner1.exe
+>>Scanner1.exe Input1.txt Output1.txt
+
+
+>>flex -oLex1.c Lex1.l
+>>bison -do Yacc1.c Yacc1.y
+>>gcc Lex1.c Yacc1.c -o Parser1.exe
+>>Parser1.exe

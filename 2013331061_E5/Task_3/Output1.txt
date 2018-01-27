@@ -1,0 +1,4 @@
+printf();
+SCM[&d]
+MCM[25]
+SCM[&d]
